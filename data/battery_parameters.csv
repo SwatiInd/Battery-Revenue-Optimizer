@@ -1,0 +1,6 @@
+﻿parameter,value,unit
+storage_capacity,20,MWh
+power_rating,10,MW
+charging_eff,0.9,
+discharging_eff,0.9,
+initial_soc,5,MWh

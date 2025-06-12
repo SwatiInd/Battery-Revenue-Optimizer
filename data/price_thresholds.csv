@@ -1,0 +1,3 @@
+﻿parameter,price,unit
+ch_max_threshold,1,£/MWh
+disch_min_threshold,5,£/MWh
