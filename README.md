@@ -14,8 +14,8 @@ It combines a Pyomo model (batteryopt package) with tidy CSV templates for input
 ### Optimizer Output
 
 <p align="center">
-  <img src="./figures/Battery State vs. Prices.png"   width="45%" />
-  <img src="./figures/revenue_soc.png"   width="45%" />
+  
+  <img src="./figures/revenue_soc.png"   width="55%" />
 </p>
 
 
